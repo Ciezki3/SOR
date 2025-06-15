@@ -1,0 +1,14 @@
+C:\Users\dawid\OneDrive\Desktop\Nowy folder (2)\bin\Debug\net9.0\Nowy folder (2).exe
+C:\Users\dawid\OneDrive\Desktop\Nowy folder (2)\bin\Debug\net9.0\Nowy folder (2).deps.json
+C:\Users\dawid\OneDrive\Desktop\Nowy folder (2)\bin\Debug\net9.0\Nowy folder (2).runtimeconfig.json
+C:\Users\dawid\OneDrive\Desktop\Nowy folder (2)\bin\Debug\net9.0\Nowy folder (2).dll
+C:\Users\dawid\OneDrive\Desktop\Nowy folder (2)\bin\Debug\net9.0\Nowy folder (2).pdb
+C:\Users\dawid\OneDrive\Desktop\Nowy folder (2)\obj\Debug\net9.0\Nowy folder (2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dawid\OneDrive\Desktop\Nowy folder (2)\obj\Debug\net9.0\Nowy folder (2).AssemblyInfoInputs.cache
+C:\Users\dawid\OneDrive\Desktop\Nowy folder (2)\obj\Debug\net9.0\Nowy folder (2).AssemblyInfo.cs
+C:\Users\dawid\OneDrive\Desktop\Nowy folder (2)\obj\Debug\net9.0\Nowy folder (2).csproj.CoreCompileInputs.cache
+C:\Users\dawid\OneDrive\Desktop\Nowy folder (2)\obj\Debug\net9.0\Nowy folder (2).dll
+C:\Users\dawid\OneDrive\Desktop\Nowy folder (2)\obj\Debug\net9.0\refint\Nowy folder (2).dll
+C:\Users\dawid\OneDrive\Desktop\Nowy folder (2)\obj\Debug\net9.0\Nowy folder (2).pdb
+C:\Users\dawid\OneDrive\Desktop\Nowy folder (2)\obj\Debug\net9.0\Nowy folder (2).genruntimeconfig.cache
+C:\Users\dawid\OneDrive\Desktop\Nowy folder (2)\obj\Debug\net9.0\ref\Nowy folder (2).dll
